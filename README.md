@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Youssef's Stats" width="48%"/>
+  <img src="https://En-Yousef-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Youssef's Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
 </p>
 
@@ -57,7 +57,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:yousefahmedshabban43@gmail.com">
+  <a href="mailto:yousefahmedshabban@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
